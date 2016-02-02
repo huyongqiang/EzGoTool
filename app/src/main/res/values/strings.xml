@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">代购小工具</string>
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">更新汇率</string>
+    <string name="action_keyboard">开关键盘</string>
+    <string name="action_add">添加数据</string>
+    <string name="tab_history_list">历史列表</string>
+    <string name="tab_calculator">报价计算器</string>
+    <string name="tab_statistics">统计</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="detail">详细信息</string>
+
+    <string name="import_price">进价 (澳元)</string>
+    <string name="outlet_price">报价 (澳元)</string>
+    <string name="exchange_rate_now">实时汇率 (AU/RMB)</string>
+    <string name="exchange_rate">汇率 (AUD/RMB)</string>
+    <string name="express_fee">运费 (澳元)</string>
+    <string name="trade_name">商品名</string>
+    <string name="calculate">计    算</string>
+    <string name="trade_price">交易价格 (元)</string>
+    <string name="profit">利    润 (元)</string>
+    <string name="reverse_outlet">反算报价</string>
+    <string name="reverse_profit">反算利润</string>
+    <string name="tips">把数据填完再计算吧</string>
+    <string name="tips_add_data">添加数据成功</string>
+    <string name="tips_exit">再按一次退出程序</string>
+
+    <!--设置-->
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.utoo.ezgotool.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_compass"
+        app:showAsAction="never" />
+
+    <!--<item-->
+        <!--android:id="@+id/action_refresh"-->
+        <!--android:orderInCategory="90"-->
+        <!--android:title="@string/action_refresh"-->
+        <!--android:icon="@drawable/ic_in_progress"-->
+        <!--app:showAsAction="always" />-->
+
+    <item
+        android:id="@+id/action_close_keyboard"
+        android:orderInCategory="80"
+        android:title="@string/action_keyboard"
+        android:icon="@drawable/ic_action_all_media"
+        app:showAsAction="always" />
+
+</menu>
