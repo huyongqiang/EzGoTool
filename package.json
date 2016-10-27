@@ -1,0 +1,27 @@
+{
+  "name": "ezgotool",
+  "version": "1.0.0",
+  "description": "a tool",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "test",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdicoder/EzGoTool.git"
+  },
+  "keywords": [
+    "wangdi8888"
+  ],
+  "author": "wangdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangdicoder/EzGoTool/issues"
+  },
+  "homepage": "https://github.com/wangdicoder/EzGoTool#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-native": "^0.36.0"
+  }
+}
